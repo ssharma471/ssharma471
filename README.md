@@ -10,7 +10,7 @@ As a student at Seneca College pursuing an Honours Bachelor of Software Developm
 
 <h4>My Portfolio</h4>
 
-<br>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) (https://my-portfolio-alpha-seven-48.vercel.app/)
+<br>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) (https://ssharma471.github.io/Sidhant_Portfolio/)
 
 <br>
 
